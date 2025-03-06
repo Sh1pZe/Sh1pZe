@@ -27,3 +27,4 @@
 <br>
 ## 🤝 Контакт
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ShipZe)
+<!-- Документация по виджету контактов ↑↑ https://shields.io/badges -->
