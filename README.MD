@@ -1,4 +1,4 @@
-## Меня зовут Женя. Я QA 👋
+## Привет! Меня зовут Женя. Я QA 👋
 
 <!--
 **Sh1pZe/Sh1pZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
