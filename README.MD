@@ -1,5 +1,6 @@
 ## Привет! Меня зовут Женя. Я QA 👋 
  <img src="https://blog.aspiresys.com/wp-content/uploads/2016/07/shutterstock_112048118-1.jpg" title="QA" alt="Main" width="800" height="500"/>
+
 ## Тестирование интеграций и API 📫
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
