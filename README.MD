@@ -22,3 +22,7 @@
 <div>
 <img src="https://github.com/Sh1pZe/Sh1pZe/blob/main/Certificate.png"  width="280" height="390"/>
 </div>
+
+<br>
+## 🤝 Контакт
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](t.me/ShipZe)
