@@ -18,3 +18,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
+## Образование
+<div>
+<img src="https://github.com/Sh1pZe/Sh1pZe/blob/main/Certificate.png"  width="200" height="200"/>
+</div>
