@@ -1,7 +1,7 @@
-## Привет! Меня зовут Женя. Я QA 👋 
+## Hi! My name is Evgeniy. I am a QA 👋 
  <img src="https://blog.aspiresys.com/wp-content/uploads/2016/07/shutterstock_112048118-1.jpg" title="QA" alt="Main" width="800" height="500"/>
 
-## Тестирование интеграций и API 📫
+## Testing integrations and API 📫
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp
@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
 </div>
 
-## Работа с БД
+## Working with the database
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
@@ -18,7 +18,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
-## Образование
+## Education
 <div>
 <img src="https://github.com/Sh1pZe/Sh1pZe/blob/main/Certificate.png"  width="280" height="390"/>
 </div>
