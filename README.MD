@@ -1,5 +1,5 @@
 ## Привет! Меня зовут Женя. Я QA 👋 
- <img src="https://static20.tgcnt.ru/posts/_0/63/632a6cf8ea1067687d6b6e02b7b26b9a.jpg" title="QA" alt="Main" width="800" height="300"/>
+ <img src="https://static20.tgcnt.ru/posts/_0/63/632a6cf8ea1067687d6b6e02b7b26b9a.jpg" title="QA" alt="Main" width="800" height="500"/>
 <!--
 **Sh1pZe/Sh1pZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
