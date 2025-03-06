@@ -20,5 +20,5 @@
 
 ## Образование
 <div>
-<img src="https://github.com/Sh1pZe/Sh1pZe/blob/main/Certificate.png"  width="400" height="350"/>
+<img src="https://github.com/Sh1pZe/Sh1pZe/blob/main/Certificate.png"  width="280" height="390"/>
 </div>
