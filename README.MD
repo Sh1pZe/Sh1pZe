@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
 </div>
 
-## Working with the database
+## Working with the database 🔐
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
@@ -18,12 +18,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
-## Education
+## Education 👨‍🎓
 <div>
 <img src="https://github.com/Sh1pZe/Sh1pZe/blob/main/Certificate.png"  width="280" height="390"/>
 </div>
 
-## 🤝 Контакт
+## TG ➣
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ShipZe)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
